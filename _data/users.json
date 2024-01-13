@@ -1,0 +1,56 @@
+[
+  {
+    "username": "sidney",
+    "email": "swreight0@mozilla.org",
+    "password": "KcRwv7jrVf",
+    "role": "user"
+  },
+  {
+    "username": "gothart",
+    "email": "gphilippard1@theguardian.com",
+    "password": "u4I218n",
+    "role": "user"
+  },
+  {
+    "username": "amble",
+    "email": "alaw2@time.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "username": "ali",
+    "email": "akiddye3@opensource.org",
+    "password": "kBrG5cGN1JP",
+    "role": "user"
+  },
+  {
+    "username": "roxie",
+    "email": "rwaldren4@theglobeandmail.com",
+    "password": "7C7a1RrfQ",
+    "role": "user"
+  },
+  {
+    "username": "ardith",
+    "email": "amendes5@usda.gov",
+    "password": "X8Zfcu",
+    "role": "admin"
+  },
+  {
+    "username": "krisha",
+    "email": "kcasino6@google.pl",
+    "password": "1UMoFi8a",
+    "role": "admin"
+  },
+  {
+    "username": "lorie",
+    "email": "lahrend7@alibaba.com",
+    "password": "s5Fynloq",
+    "role": "admin"
+  },
+  {
+    "username": "reagan",
+    "email": "techreagan@gmail.com",
+    "password": "123456",
+    "role": "admin"
+  }
+]
